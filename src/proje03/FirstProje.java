@@ -6,6 +6,7 @@ public class FirstProje {
 		
 		System.out.println("Meine Projekt");
 		System.out.println("Meine zweitte Projekt");
+		System.out.println("Son kontrol");
 
 	}
 
